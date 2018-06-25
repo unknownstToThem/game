@@ -1,0 +1,36 @@
+{
+    "save": {
+        "equipment": [
+            [
+                "Leftie",
+                "Rightie",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            0,
+            [],
+            [
+                1,
+                2,
+                2,
+                2,
+                2,
+                0
+            ]
+        ],
+        "gold": 0,
+        "inventory": [],
+        "stats": [
+            69,
+            69,
+            69,
+            69,
+            69,
+            69
+        ]
+    }
+}
