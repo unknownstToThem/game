@@ -1,2 +1,3 @@
-# game
-Text-based Python RPG game
+## README COMING SOON, LOVE YOU x
+
+### **UNDER CONSTRUCTION**
