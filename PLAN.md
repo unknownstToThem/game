@@ -2,28 +2,28 @@
 
 ### Finished tasks
 
-- [ ] Utility Script
+- [x] Utility Script
 - [x] Player
 - [ ] Enemy
 - [ ] Item
 - [ ] Combat system
 - [ ] Map
-- [ ] Save system
+- [x] Save system
 - [ ] Readme
 
 <br/>
 
 ## To-Do List
 
-- [ ] Add utility functions in its own script
+- [x] Add utility functions in its own script
 	- Treat it as a library; import it
 	- Grouping things makes everything look cleaner - making it all compatible is the hard part
-	- [ ] Clear screen (visuals)
+	- [x] Clear screen (visuals)
 - [x] Player
 	- [x] Defense (HP)
 	- [x] Strength (damage)
 	- [x] Speed (who goes first)
-	- Maybe compile stats into list to use both temporarily and statically
+	- [x] Temporary stat list
 	- [x] Gold (currency)
 	- [x] Inventory (list)
 	- [x] Equipment (equipped crap from inventory for stat boosts)
@@ -35,7 +35,8 @@
 	- [ ] Drops (list)
 - [ ] Item
 	- [ ] Weapons (WIP)
-		- [x] Abilities implemented
+		- [x] Abilities instantiated
+		- [ ] Abilities implemented
 		- [x] Class instantiated
 		- [ ] Tested
 	- [ ] Armor (WIP)
@@ -60,8 +61,8 @@
 	- [ ] Shops
 	- [ ] Towns (Peaceful, Hostile, Military, Bustling)
 	- [ ] Quests
-- [ ] Save System
+- [x] Save System
 	- JSON
-	- [ ] Set up
-	- [ ] Tested
+	- [x] Set up
+	- [x] Tested
 - [ ] README.md
