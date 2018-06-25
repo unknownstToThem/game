@@ -1,5 +1,20 @@
 # Plan
 
+### Finished tasks
+
+- [ ] Utility Script
+- [ ] Player
+- [ ] Enemy
+- [ ] Item
+- [ ] Combat system
+- [ ] Map
+- [ ] Save system
+- [ ] Readme
+
+<br/>
+
+## To-Do List
+
 - [ ] Add utility functions in its own script
 	- Treat it as a library; import it
 	- Grouping things makes everything look cleaner - making it all compatible is the hard part
