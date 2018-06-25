@@ -1,13 +1,20 @@
 Run #1
 
+
 Created: 2
 Created: 8
-Created: 5 
+Created: 5
 
 Saved JSON!
 Loaded JSON!
 
-JSON: "{\n    \"save\": {\n        \"a\": 2,\n        \"b\": 8,\n        \"c\": 5\n    }\n}"
+JSON: {
+    "save": {
+        "a": 2,
+        "b": 8,
+        "c": 5
+    }
+}
 Params: 2, 8, 5
 Data: 2, 8, 5
 
@@ -17,7 +24,60 @@ Run #2
 Saved JSON!
 Loaded JSON!
 
-JSON: "{\n    \"save\": {\n        \"a\": 4,\n        \"b\": 16,\n        \"c\": 10\n    }\n}"
-Params: 4, 16, 10
-Data: 4, 16, 10
+JSON: {
+    "save": {
+        "a": 20,
+        "b": 80,
+        "c": 50
+    }
+}
+Params: 20, 80, 50
+Data: 20, 80, 50
 
+
+Run #3
+
+Saved JSON!
+Loaded JSON!
+
+JSON: {
+    "save": {
+        "a": 200,
+        "b": 800,
+        "c": 500
+    }
+}
+Params: 200, 800, 500
+Data: 200, 800, 500
+
+
+Run #4
+
+Saved JSON!
+Loaded JSON!
+
+JSON: {
+    "save": {
+        "a": 2000,
+        "b": 8000,
+        "c": 5000
+    }
+}
+Params: 2000, 8000, 5000
+Data: 2000, 8000, 5000
+
+
+Run #5
+
+Saved JSON!
+Loaded JSON!
+
+JSON: {
+    "save": {
+        "a": 20000,
+        "b": 80000,
+        "c": 50000
+    }
+}
+Params: 20000, 80000, 50000
+Data: 20000, 80000, 50000
