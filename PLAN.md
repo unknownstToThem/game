@@ -3,7 +3,7 @@
 ### Finished tasks
 
 - [ ] Utility Script
-- [ ] Player
+- [x] Player
 - [ ] Enemy
 - [ ] Item
 - [ ] Combat system
@@ -18,7 +18,8 @@
 - [ ] Add utility functions in its own script
 	- Treat it as a library; import it
 	- Grouping things makes everything look cleaner - making it all compatible is the hard part
-- [ ] Player
+	- [ ] Clear screen (visuals)
+- [x] Player
 	- [x] Defense (HP)
 	- [x] Strength (damage)
 	- [x] Speed (who goes first)
@@ -26,8 +27,8 @@
 	- [x] Gold (currency)
 	- [x] Inventory (list)
 	- [x] Equipment (equipped crap from inventory for stat boosts)
-	- [ ] Damage function
-	- [ ] Heal function
+	- [x] Damage function
+	- [x] Heal function
 - [ ] Enemy
 	- [ ] Inherit from player
 	- [ ] Gold drop functionality
