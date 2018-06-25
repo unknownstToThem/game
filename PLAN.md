@@ -3,12 +3,12 @@
 ### Finished tasks
 
 - [x] Utility Script
-- [x] Player
+- [ ] Player
 - [ ] Enemy
 - [ ] Item
 - [ ] Combat system
 - [ ] Map
-- [x] Save system
+- [ ] Save system
 - [ ] Readme
 
 <br/>
@@ -19,33 +19,33 @@
 	- Treat it as a library; import it
 	- Grouping things makes everything look cleaner - making it all compatible is the hard part
 	- [x] Clear screen (visuals)
-- [x] Player
-	- [x] Defense (HP)
-	- [x] Strength (damage)
-	- [x] Speed (who goes first)
-	- [x] Temporary stat list
-	- [x] Gold (currency)
-	- [x] Inventory (list)
-	- [x] Equipment (equipped crap from inventory for stat boosts)
-	- [x] Damage function
-	- [x] Heal function
+- [ ] Player
+	- [ ] Defense (HP)
+	- [ ] Strength (damage)
+	- [ ] Speed (who goes first)
+	- [ ] Temporary stat list
+	- [ ] Gold (currency)
+	- [ ] Inventory (list)
+	- [ ] Equipment (equipped crap from inventory for stat boosts)
+	- [ ] Damage function
+	- [ ] Heal function
 - [ ] Enemy
 	- [ ] Inherit from player
 	- [ ] Gold drop functionality
 	- [ ] Drops (list)
 - [ ] Item
 	- [ ] Weapons (WIP)
-		- [x] Abilities instantiated
+		- [ ] Abilities instantiated
 		- [ ] Abilities implemented
-		- [x] Class instantiated
+		- [ ] Class instantiated
 		- [ ] Tested
 	- [ ] Armor (WIP)
 		- [ ] Enchantments implemented
-		- [x] Class instantiated
+		- [ ] Class instantiated
 		- [ ] Tested
 	- [ ] Accessories (WIP)
 	- [ ] Potions (WIP)
-		- [x] Set up
+		- [ ] Set up
 		- [ ] Healing
 		- [ ] Damage
 		- [ ] Poison
@@ -61,8 +61,8 @@
 	- [ ] Shops
 	- [ ] Towns (Peaceful, Hostile, Military, Bustling)
 	- [ ] Quests
-- [x] Save System
+- [ ] Save System
 	- JSON
-	- [x] Set up
-	- [x] Tested
+	- [ ] Set up
+	- [ ] Tested
 - [ ] README.md
